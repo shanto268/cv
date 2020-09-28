@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1601270311 "cv.xdv" "cv.pdf" "cv" 1601270313
-  "cv.xdv" 1601270311 201140 a2b1f179bdc9fff22cf23cd3c474cc64 "xelatex"
+["xdvipdfmx"] 1601271461 "cv.xdv" "cv.pdf" "cv" 1601271462
+  "cv.xdv" 1601271461 201744 ba614c957daa13bc207b45d08465c472 "xelatex"
   (generated)
   "cv.pdf"
-["xelatex"] 1601270309 "cv.tex" "cv.xdv" "cv" 1601270313
+["xelatex"] 1601271458 "cv.tex" "cv.xdv" "cv" 1601271462
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -165,9 +165,9 @@
   "/usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf" 1583102494 39451 60d7debd9ef8ece44cbe965493576c2d ""
   "/usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1598308940 4778751 8fa8be194d6dbc4acff59570a34f0656 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "cv.aux" 1601270311 723 608819ca7f08a44690e25cfb652e29e4 "xelatex"
-  "cv.out" 1601270311 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "cv.tex" 1601270308 3127 c1f955c60e12d8c88317fbecbf9017ea ""
+  "cv.aux" 1601271461 723 608819ca7f08a44690e25cfb652e29e4 "xelatex"
+  "cv.out" 1601271460 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "cv.tex" 1601270358 3127 c1f955c60e12d8c88317fbecbf9017ea ""
   "data/community.tex" 1601255097 1583 920346722fa7d331423409ffdb0150f7 ""
   "data/education.tex" 1601254406 520 8fac890c8d889d57836647c7d5a262a1 ""
   "data/employment.tex" 1601268874 5285 b242ab573efd1c7cd8e5e63b19063887 ""
@@ -179,11 +179,11 @@
   "data/publications.tex" 1601159138 1279 dd2ee3b98ac5c4bd45b74e97db6091df ""
   "data/seminars.tex" 1601158329 1683 942e67381022860b78fadd2a4bf423d0 ""
   "data/skills.tex" 1601095197 1235 91c7d44b9073d92f525776b0c7a4c1b1 ""
-  "data/training.tex" 1601246621 1727 90a5b2d9e781aa423679b1ceaccda008 ""
+  "data/training.tex" 1601271457 1780 c1690b81fc9f28c453d5adc8c6def38d ""
   "templates/awesome-cv.cls" 1601068351 28666 31631939f9a144ca1cec768dfbd6b8fc ""
   "templates/fontawesome.sty" 1601068351 98070 571a0ccd9879f743bad4158b3bd80f13 ""
   (generated)
   "cv.out"
-  "cv.xdv"
   "cv.log"
   "cv.aux"
+  "cv.xdv"
