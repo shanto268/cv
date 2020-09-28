@@ -1,19 +1,19 @@
 Resume / Curriculum Vitae
 ==========================
 
-[![GitHub release](https://img.shields.io/github/release/seignovert/cv.svg)](https://github.com/seignovert/cv/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/seignovert/cv.svg)](https://github.com/seignovert/cv/blob/master/LICENCE.md)
+In this repository is my CV. 
+
+Download
+--------
+
 [![PDF](https://img.shields.io/badge/-PDF-orange.svg?logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAM1BMVEUAAAD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2B3leKCAAAAEHRSTlMANjxBWWJtgKSl4eLy9fz9qpcRhAAAAEpJREFUeNqNzEsOgCAQBFFQYPAHdf%2FTOkPGBBMX1u4lnQ5fFSgTBeQnD0a7czlN1xomu9yPUoOeY8wdWrJTda0qEKW3aWJjb4zf3XKSBKbPN4tKAAAAAElFTkSuQmCC)][download]
 
-[download]: https://github.com/seignovert/cv/raw/master/cv.pdf
-
-This repository store the academic resume and curriculum vitae for Benoît Seignovert (Jet Propulsion Laboratory, Pasadena, CA USA).
-
-![CV 1st page](cv/cv-0.jpg)
+[download]: https://github.com/shanto268/cv/cv.pdf
 
 Credit
 -------
 The template design is based on:
+  - [B. Seignovert's Acadmic CV](https://github.com/seignovert/cv)
   - [AwesomeCV](https://github.com/posquit0/Awesome-CV)
   - [Andy Casey CV](https://github.com/andycasey/cv)
 
