@@ -1,0 +1,15 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "cv.xdv" "cv.pdf" "cv" 0
+  "cv.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "cv.pdf"
+["xelatex"] 1601573616 "cv.tex" "cv.xdv" "cv" 1601573616
+  "/usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf" 1583102494 39451 60d7debd9ef8ece44cbe965493576c2d ""
+  "/usr/local/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1598308940 4778751 8fa8be194d6dbc4acff59570a34f0656 ""
+  "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
+  "cv.aux" 1601573563 8 a94a2480d3289e625eea47cd1b285758 ""
+  "cv.tex" 1601573615 3127 c1f955c60e12d8c88317fbecbf9017ea ""
+  "templates/awesome-cv.cls" 0 -1 0 ""
+  (generated)
+  "cv.log"
+  "cv.xdv"
