@@ -17,6 +17,12 @@
 %-------------------------------------------------------------------------------
 % A4 paper size by default, use 'letterpaper' for US letter
 \documentclass[11pt, a4paper]{templates/awesome-cv}
+%\usepackage{cmap}
+\usepackage{newtxtext}
+
+\newenvironment{goodspacing}{
+    \fontdimen2\font=0.5em
+}
 
 % Configure page margins with geometry
 \geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
@@ -69,21 +75,25 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
+\begin{goodspacing}
+
 \input{data/education.tex}
 \input{data/publications.tex}
 \input{data/employment.tex}
 \input{data/internship.tex}
-\input{data/seminars.tex}
 \clearpage
+\input{data/seminars.tex}
 \input{data/honors.tex}
-\input{data/community.tex}
 \clearpage
 \input{data/projects.tex}
 \input{data/skills.tex}
+\clearpage
+\input{data/community.tex}
 \input{data/training.tex}
 \input{data/outreach.tex}
-%\clearpage
 %\input{data/activities.tex}
 %\input{data/other.tex}
 %-------------------------------------------------------------------------------
+
+\end{goodspacing}
 \end{document}
