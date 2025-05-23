@@ -86,12 +86,13 @@
 \RequirePackage{lastpage}
 % Needed to deal hyperlink
 \RequirePackage[hidelinks,unicode]{hyperref}
-\hypersetup{%
-  pdftitle={},
-  pdfauthor={},
-  pdfsubject={},
-  pdfkeywords={}
+\hypersetup{
+  pdfauthor={Sadman Ahmed Shanto},
+  pdftitle={Curriculum Vitae},
+  pdfsubject={Superconducting Quantum Devices, Machine Learning, SQuADDS, Quantum Hardware},
+  pdfkeywords={quantum computing, superconducting circuits, machine learning, device design, fabrication, Andreev physics}
 }
+
 
 
 %-------------------------------------------------------------------------------

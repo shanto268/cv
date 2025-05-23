@@ -25,7 +25,7 @@
 }
 
 % Configure page margins with geometry
-\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.5cm, footskip=.5cm}
 
 % Specify the location of the included fonts
 \fontdir[fonts/]
@@ -33,9 +33,9 @@
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-nephritis}
+\colorlet{awesome}{awesome-red}
 % Uncomment if you would like to specify your own color
-\definecolor{awesome}{HTML}{438ACC}
+\definecolor{awesome}{HTML}{990000}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -61,6 +61,7 @@
 \cfooter{Sadman Ahmed Shanto ~~~·~~~Curriculum Vitae}
 \rfooter{\thepage/\pageref{LastPage}}
 %-------------------------------------------------------------------------------
+\raggedbottom
 \begin{document}
 
 % Print the header with above personal information
@@ -76,23 +77,24 @@
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
 \begin{goodspacing}
-
+% Core Professional Identity
 \input{data/education.tex}
-\input{data/publications.tex}
 \input{data/employment.tex}
-\input{data/internship.tex}
-\clearpage
-\input{data/seminars.tex}
-\input{data/honors.tex}
-\clearpage
-\input{data/projects.tex}
+
+% Technical Expertise
 \input{data/skills.tex}
-\clearpage
+
+% Professional Impact
+\input{data/publications.tex}
+% \clearpage
+\input{data/seminars.tex}
 \input{data/community.tex}
-\input{data/training.tex}
+\input{data/honors.tex}
+
+% Recognition & Additional Achievements
+\input{data/teaching.tex}
 \input{data/outreach.tex}
-%\input{data/activities.tex}
-%\input{data/other.tex}
+
 %-------------------------------------------------------------------------------
 
 \end{goodspacing}
